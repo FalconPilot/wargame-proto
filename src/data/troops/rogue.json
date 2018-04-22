@@ -1,0 +1,20 @@
+{
+  "name":     "Rôdeur",
+  "type":     "ranged",
+  "category": "light",
+
+  "stats": {
+    "attack":   5,
+    "defense":  0,
+    "health":   10,
+    "size":     1
+  },
+
+  "efficiency": {
+    "infantry":   50,
+    "cavalry":    20,
+    "ranged":     100,
+    "artillery":  120,
+    "mage":       200
+  }
+}

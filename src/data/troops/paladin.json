@@ -1,0 +1,20 @@
+{
+  "name":     "Paladin",
+  "type":     "infantry",
+  "category": "heavy",
+
+  "stats": {
+    "attack":   10,
+    "defense":  20,
+    "health":   100,
+    "size":     10
+  },
+
+  "efficiency": {
+    "infantry":   130,
+    "cavalry":    100,
+    "ranged":     130,
+    "artillery":  50,
+    "mage":       100
+  }
+}

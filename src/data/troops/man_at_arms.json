@@ -1,0 +1,20 @@
+{
+  "name":     "Homme d'armes",
+  "type":     "infantry",
+  "category": "light",
+
+  "stats": {
+    "attack":   3,
+    "defense":  1,
+    "health":   8,
+    "size":     1
+  },
+
+  "efficiency": {
+    "infantry":   100,
+    "cavalry":    100,
+    "ranged":     75,
+    "artillery":  100,
+    "mage":       150
+  }
+}

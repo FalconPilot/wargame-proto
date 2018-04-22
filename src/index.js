@@ -1,8 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import registerServiceWorker from './registerServiceWorker';
+// React core
+import React from 'react'
+import ReactDOM from 'react-dom'
 
-ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
+// Local components
+import App from './components/App'
+
+// Local CSS
+import './stylesheets/common/index.css'
+import './stylesheets/common/falcon.css'
+
+// Render root component
+ReactDOM.render(<App/>, document.getElementById('root'))
