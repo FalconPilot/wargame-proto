@@ -1,0 +1,22 @@
+{
+  "name":     "Eclaireur",
+  "type":     "cavalry",
+  "category": "light",
+
+  "stats": {
+    "attack":   5,
+    "defense":  2,
+    "health":   20,
+    "size":     3
+  },
+
+  "efficiency": {
+    "infantry":   25,
+    "cavalry":    100,
+    "ranged":     125,
+    "artillery":  125,
+    "mage":       125
+  },
+
+  "description": []
+}

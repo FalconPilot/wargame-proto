@@ -1,0 +1,25 @@
+{
+  "name":     "Arbalétrier",
+  "type":     "ranged",
+  "category": "heavy",
+
+  "stats": {
+    "attack":   30,
+    "defense":  10,
+    "health":   50,
+    "size":     8
+  },
+
+  "efficiency": {
+    "infantry":   200,
+    "cavalry":    75,
+    "ranged":     100,
+    "artillery":  50,
+    "mage":       75
+  },
+
+  "description": [
+    "Lourdement équipés, les arbalétriers sont de solides adversaires capables de se défendre de bien des façons. Ce sont des tueurs d'infanterie capable de décimer des bataillons entiers de quelques volées de carreaux bien placées.",
+    "Bien que mortellement efficaces face aux troupes d'infanterie, leur lourd équipement en fait des cibles de choix pour la plupart des troupes de choc. Bien utilisés, ils restent dévastateurs sur le champ de bataille et capables d'encaisser bien plus de dégâts que n'importe-quel archer."
+  ]
+}

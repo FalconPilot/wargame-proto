@@ -1,0 +1,25 @@
+{
+  "name":     "Garde",
+  "type":     "infantry",
+  "category": "medium",
+
+  "stats": {
+    "attack":   4,
+    "defense":  5,
+    "health":   25,
+    "size":     2
+  },
+
+  "efficiency": {
+    "infantry":   100,
+    "cavalry":    200,
+    "ranged":     100,
+    "artillery":  75,
+    "mage":       50
+  },
+
+  "description": [
+    "Les gardes sont des guerriers ayant forgé leur corps et leur esprit dans le feu de la bataille. Ils sont disciplinés, ordonnés et prêts à encourir tous les risques du monde pour protéger leurs camarades.",
+    "Ils sont le coeur défensif de toute armée."
+  ]
+}

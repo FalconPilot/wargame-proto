@@ -1,0 +1,25 @@
+{
+  "name":     "Rôdeur",
+  "type":     "ranged",
+  "category": "light",
+
+  "stats": {
+    "attack":   6,
+    "defense":  0,
+    "health":   10,
+    "size":     3
+  },
+
+  "efficiency": {
+    "infantry":   50,
+    "cavalry":    50,
+    "ranged":     150,
+    "artillery":  100,
+    "mage":       150
+  },
+
+  "description": [
+    "Les habiles rôdeurs sont pour beaucoup d'anciens bandits, assassins ou autres personnes de basse vertue ayant accepté de monnayer leurs services contre le pardon de leurs péchés.",
+    "Ce sont des tueurs nés capables d'abattre les cibles les plus vulnérables avec des frappes chirurgicales. Face à de grands bataillons disciplinés ou des charges fulgurantes de cavalerie, cependant, il ne leur reste plus grand chose..."
+  ]
+}

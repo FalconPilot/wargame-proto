@@ -1,0 +1,25 @@
+{
+  "name":     "Paladin",
+  "type":     "infantry",
+  "category": "heavy",
+
+  "stats": {
+    "attack":   20,
+    "defense":  20,
+    "health":   100,
+    "size":     10
+  },
+
+  "efficiency": {
+    "infantry":   130,
+    "cavalry":    130,
+    "ranged":     130,
+    "artillery":  20,
+    "mage":       100
+  },
+
+  "description": [
+    "Lourdement armés et protégés, les paladins sont les guerriers saints des ordres religieux ayant accepté de rejoindre la cause d'une armée. Leur simple présence peut être une source d'inspiration pour les troupes comme une source de crainte pour les adversaires.",
+    "Ils sont redoutablement efficaces contre le danger et équipés pour subir les pires attaques de front. Cependant, cela fait d'eux une cible de choix pour l'artillerie..."
+  ]
+}

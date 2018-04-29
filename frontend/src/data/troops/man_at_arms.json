@@ -1,0 +1,25 @@
+{
+  "name":     "Homme d'armes",
+  "type":     "infantry",
+  "category": "light",
+
+  "stats": {
+    "attack":   3,
+    "defense":  1,
+    "health":   8,
+    "size":     1
+  },
+
+  "efficiency": {
+    "infantry":   100,
+    "cavalry":    75,
+    "ranged":     75,
+    "artillery":  150,
+    "mage":       100
+  },
+
+  "description": [
+    "L'homme d'arme est le soldat le plus simple et modeste de toute armée qui se respecte. Leur équipement léger et minimaliste en font des troupes fragiles mais capables d'être déployées en masse.",
+    "Bien que n'excellant en rien, leur nombre est souvent un atout de poids leur offrant une certaine polyvalence."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "stats": {
+    "attack":   "Attaque",
+    "defense":  "Défense",
+    "health":   "PV",
+    "size":     "Taille"
+  }
+}

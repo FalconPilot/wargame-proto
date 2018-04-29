@@ -1,0 +1,22 @@
+{
+  "name":     "Archer",
+  "type":     "ranged",
+  "category": "medium",
+
+  "stats": {
+    "attack":   5,
+    "defense":  2,
+    "health":   18,
+    "size":     2
+  },
+
+  "efficiency": {
+    "infantry":   150,
+    "cavalry":    50,
+    "ranged":     100,
+    "artillery":  120,
+    "mage":       80
+  },
+
+  "description": []
+}
